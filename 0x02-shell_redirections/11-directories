@@ -1,0 +1,2 @@
+#!/bin/bash
+cat find -mindepth 1 -type d | wc -1
