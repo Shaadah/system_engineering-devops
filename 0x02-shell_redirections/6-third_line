@@ -1,2 +1,0 @@
-#!/bin/bash
-cat head -n 3 iacta | tail -n 1 iacta1
