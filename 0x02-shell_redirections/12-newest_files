@@ -1,2 +1,0 @@
-#!/bin/bash
-cat ls -t | head -10
